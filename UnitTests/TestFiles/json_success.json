@@ -1,0 +1,17 @@
+{
+  "ProductPacks": 
+  [
+    {
+      "ProductId": "3ee64405-f377-4394-a010-5b87acfb938e",
+      "Amount": 10
+    },
+    {
+      "ProductId": "bf511429-a461-48de-8e9d-d16e8206f802",
+      "Amount": 50
+    },
+    {
+      "ProductId": "eab47b14-c1b1-4396-ba1d-5ae03e25b8da",
+      "Amount": 150
+    }
+  ]
+}
